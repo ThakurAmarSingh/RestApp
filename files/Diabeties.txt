@@ -1,0 +1,12 @@
+Summary
+Background
+A multi-layered association between tobacco use and type 2 diabetes mellitus (T2DM) is well established. However, global epidemiological patterns of tobacco use among T2DM patients are not well documented; this review thus aims to estimate the overall global burden of tobacco use in T2DM.
+
+Methods
+A systematic review of studies published from Jan 1, 1990 to October 5, 2017 was undertaken, comprising: a comprehensive literature search on multiple electronic databases; quality assessment of studies; data extraction for the primary (prevalence of tobacco use in T2DM patients) and secondary outcomes (patterns of tobacco use in T2DM patients); and a meta-analysis. The review was conducted using the Preferred Reporting Items for Systematic Reviews and Meta-Analyses (PRISMA) statement guidelines. A protocol for this review is available on PROSPERO (CRD42016038793).
+
+Findings
+74 studies were included in the review, reporting data from 3.2 million participants across 33 countries. Global mean prevalence of tobacco use in T2DM was 20·81% (95% CI 18·93–22·76), and was higher in the WHO East Asia and Pacific and South Asia regions, compared to the Americas, Middle East and North Africa, Europe and Central Asia. In studies which compared prevalence of tobacco use in patients to non-patients, patients with T2DM were 26% less likely to use tobacco (pooled OR = 0·74 (CI 0·61–0·88).
+
+Interpretation
+Tobacco is used by one in five T2DM patients globally, but usage is less likely in patients than in non-patients. Global patterns of use demonstrated by this review have implications for both prevention and The understanding of diabetes burden, and the success of tobacco cessation strategies.
